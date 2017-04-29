@@ -69,7 +69,7 @@ SeqList::SeqList(int sz)
     }
 
 }
-int main()   
+int main()
  {
   SeqList myList(100);
   myList.Input();
